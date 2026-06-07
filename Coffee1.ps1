@@ -3,7 +3,7 @@
 <#
 
 Foo File: Foo.ps1
-Author: Bob
+Author: John (formerly Bob)
 License: BSD 3-Clause
 Required Dependencies: None
 
