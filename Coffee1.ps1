@@ -3,7 +3,7 @@
 <#
 
 Foo File: Foo.ps1
-Author: John (formerly Bob)
+Author: There is no author - this is just magic.
 License: BSD 3-Clause
 Required Dependencies: None
 
